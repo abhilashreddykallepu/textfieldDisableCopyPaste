@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  test.h
 //  textfieldDisable
 //
 //  Created by Hadi Hatinoglu on 04/12/13.
@@ -8,7 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-@property (weak, nonatomic) IBOutlet UITextField *txt;
+@interface test : UITextField
 
 @end
